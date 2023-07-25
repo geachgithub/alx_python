@@ -1,0 +1,1 @@
+Assign a random number to a variable and check if the number is positive, negative or zero
