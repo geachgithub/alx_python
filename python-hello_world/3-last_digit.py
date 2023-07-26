@@ -1,8 +1,5 @@
-
 import random
-
 number=random.randint(-10000, 10000)
-
 l_digit=number%10
 if l_digit>5:
     text='and is greater than 5'
