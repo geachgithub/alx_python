@@ -1,5 +1,6 @@
 for i in range(10):
     for j in range(i+1,10):
         print('{}{}'.format(i, j), end=", ")
-        if j==9 and i==8:
-            print('{}{}'.format(i, j), end="\n")
+    if i==7:
+        print('{}{}'.format(i+1, j), end="\n")
+        break       
