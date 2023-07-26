@@ -1,0 +1,1 @@
+Different functiions explained
