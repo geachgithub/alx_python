@@ -1,7 +1,9 @@
 #String manipulation
 
 def reverse_string(string):
-    return string [::-1]
+    newString=string [::-1]
+    return newString
+
 '''print(reverse_string("Hello"))
 print(reverse_string(""))
 print(reverse_string("madam"))
