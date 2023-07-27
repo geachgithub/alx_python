@@ -14,6 +14,7 @@ def fibonacci_sequence(n):
             k=i-2
             num1=num[j]+num[k]
             num.append(num1)
+    return num
     '''print(num)
 fibonacci_sequence(0)
 fibonacci_sequence(1)
