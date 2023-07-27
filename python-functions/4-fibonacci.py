@@ -14,12 +14,12 @@ def fibonacci_sequence(n):
             k=i-2
             num1=num[j]+num[k]
             num.append(num1)
-    print(num)
-'''fibonacci_sequence(0)
+    '''print(num)
+fibonacci_sequence(0)
 fibonacci_sequence(1)
 fibonacci_sequence(2)
 fibonacci_sequence(6)
-fibonacci_sequence(20)
-'''
+fibonacci_sequence(20)'''
+
 
 
