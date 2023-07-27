@@ -1,12 +1,12 @@
 def fibonacci_sequence(n):
     num=[]
-    i=2
-    if n==0:
+    i=3
+    if n==1:
         num.append(0)
-    elif n==1:
+    elif n==2:
         num.append(0)
         num.append(1)
-    elif n>1:
+    elif n>2:
         num.append(0)
         num.append(1)
         for i in range(2,n):
