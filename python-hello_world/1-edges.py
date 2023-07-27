@@ -1,3 +1,4 @@
+word="Holberton"
 word_first_3:str
 word_last_2:str
 middle_word:str
