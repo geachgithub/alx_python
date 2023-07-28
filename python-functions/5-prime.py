@@ -8,7 +8,7 @@ def is_prime(number):
                 c+=1
     else :
         prime = False
-
+        
     if c>2:
         prime=False
     elif c<=2 and number>0 :
