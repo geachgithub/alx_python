@@ -13,9 +13,9 @@ def is_prime(number):
         prime=False
     elif c<=2 and number>0 :
         prime=True
-    print(prime)
-    '''return prime
-is_prime(17)    
+    #print(prime)
+    return prime
+'''is_prime(17)    
 is_prime(15)    
 is_prime(-5)    
 is_prime(0)''' 
