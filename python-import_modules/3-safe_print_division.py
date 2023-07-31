@@ -15,4 +15,4 @@ def safe_print_division(a,b):
             print('{}/{}={}'.format(a,b,'None'))
 
            
-safe_print_division(1,-1)
+#safe_print_division(1,-1)
