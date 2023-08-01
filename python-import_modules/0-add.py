@@ -2,5 +2,5 @@ from add_0 import add
 a=1
 b=2
 c=add(a,b)
-
-print('{}+{}={}'.format(a,b,c),end="\n")
+if __name__==__name__:
+    print('{}+{}={}'.format(a,b,c),end="\n")
