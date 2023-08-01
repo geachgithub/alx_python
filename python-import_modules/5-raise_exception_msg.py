@@ -1,2 +1,2 @@
-def raise_exception_msg(string):
-   a=c/b
+def raise_exception_msg(message):
+   print(message)
