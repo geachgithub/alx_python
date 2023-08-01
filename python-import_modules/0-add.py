@@ -1,6 +1,7 @@
 from add_0 import add
 
-a=1
+a=1 
+print('\n')
 b=2
 c=add(a,b)
 if __name__=="__main__":
