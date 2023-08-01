@@ -1,4 +1,4 @@
-def raise_exception_msg():
+def raise_exception_msg(string):
     try :
         print(c)
     except NameError:
