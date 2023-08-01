@@ -4,7 +4,7 @@ def safe_print_division(a,b):
     try:
        c = a/b
     except ZeroDivisionError:
-        print('It is impossible to devide a number by zero')
+       Exception='zero devision error' 
     finally:
         if b!=0:
          print('Inside result: {}'.format(c))
