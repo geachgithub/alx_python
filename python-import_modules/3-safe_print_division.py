@@ -12,7 +12,7 @@ def safe_print_division(a,b):
          return c
         else :
             print('Inside result: {}'.format('None'))
-            print('{}/{}={}'.format(a,b,'None'))
+            print('{}/{}={} '.format(a,b,'None'))
 
            
 #safe_print_division(1,-1)
