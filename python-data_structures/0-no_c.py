@@ -9,6 +9,5 @@ def no_c(my_string):
         else:
             letter=my_string[i]
             new_string.append(letter)
-    for i in new_string:
-        print(i,end='')     
-       
+    return new_string
+   
