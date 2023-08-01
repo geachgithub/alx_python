@@ -7,11 +7,11 @@ def safe_print_division(a,b):
         print('It is impossible to devide a number by zero')
     finally:
         if b!=0:
-         print('Inside result:{}'.format(c))
+         print('Inside result: {}'.format(c))
          print('{}/{}={}'.format(a,b,c))
          return c
         else :
-            print('Inside result:{}'.format('None'))
+            print('Inside result: {}'.format('None'))
             print('{}/{}={}'.format(a,b,'None'))
 
            
