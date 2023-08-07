@@ -1,7 +1,7 @@
 def print_matrix_integer(matrix):
-    c=0
     for i in range(len(matrix)):
         final=' '
+        c=0
         for j in range(len(matrix[i])):
             c+=1
             if c==len(matrix[i]):
