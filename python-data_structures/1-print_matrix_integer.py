@@ -1,8 +1,10 @@
 def print_matrix_integer(matrix):
-    final=' '
+    c=0
     for i in range(len(matrix)):
+        final=' '
         for j in range(len(matrix[i])):
-            if j==len(matrix[i]):
+            c+=1
+            if c==len(matrix[1]):
                 final=''
             print('{:d}'.format(matrix[i][j]),end=final)
         print(end='\n')
