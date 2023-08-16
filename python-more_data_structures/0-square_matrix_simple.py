@@ -8,8 +8,8 @@ def square_matrix_simple(matrix):
     for i in range(len(matrix)):
         transposed.append([row[i] for row in squared]) 
 
-    '''#return(transposed)   
-    print(len(matrix))
+    return(transposed)   
+    '''print(len(matrix))
     print(matrix)
     print(squared)
     print(transposed)
